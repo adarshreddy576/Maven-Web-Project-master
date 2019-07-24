@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maven Web Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/Maven_Web_RELEASE/</url>
+	      <url>http://ec2-13-233-132-164.ap-south-1.compute.amazonaws.com:8081/repository/loverelease/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven Web Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/Maven_Web_SNAPSHOT/</url>
+	      <url>http://ec2-13-233-132-164.ap-south-1.compute.amazonaws.com:8081/repository/lovesnapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
